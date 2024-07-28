@@ -1,4 +1,4 @@
-# Student Management CLI (Teaching the basics for some students, baisc of Python, including(loops, conditions and more))
+# Student Management CLI (Teaching the basics for some students, basic of Python, including(loops, conditions and more))
 
 ## Used language
 <ul>
